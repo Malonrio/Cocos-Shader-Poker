@@ -4,4 +4,4 @@
 
 视频效果:http://zovew.com/blog/video/pokerEffect.mp4
 
-Cocos Creator 1.9.X 模拟器运行。
+Cocos Creator 1.9.X + 模拟器运行,浏览器暂不支持。
